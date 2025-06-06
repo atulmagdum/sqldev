@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = git@github.com:atulmagdum/sqldev.git
+	puttykeyfile = C:\\Users\\Atulm\\OneDrive\\Desktop\\ATULM_SSH_KEY\\ATULM_private_key.ppk
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
